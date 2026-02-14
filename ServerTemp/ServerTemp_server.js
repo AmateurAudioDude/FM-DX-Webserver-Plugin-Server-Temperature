@@ -1,6 +1,6 @@
 /*
-    Server Temperature Monitor v1.0.0 by AAD
-    https://github.com/AmateurAudioDude/
+    Server Temperature Monitor v1.0.1 by AAD
+    https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Server-Temperature
 
     //// Server-side code ////
 */

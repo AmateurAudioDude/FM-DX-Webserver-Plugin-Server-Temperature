@@ -1,6 +1,6 @@
 /*
-    Server Temperature Monitor v1.0.0 by AAD
-    https://github.com/AmateurAudioDude/
+    Server Temperature Monitor v1.0.1 by AAD
+    https://github.com/AmateurAudioDude/FM-DX-Webserver-Plugin-Server-Temperature
 */
 
 (function() {
@@ -11,7 +11,7 @@
     // Configuration
     const ADMIN_ONLY = false;
     const UPDATE_INTERVAL = 10 * 60 * 1000; // 10 minutes
-    const API_URL = '/server_temp';
+    const API_URL = './server_temp';
 
     // Check if administrator code
     let isTuneAuthenticated = false;
